@@ -34,4 +34,6 @@ Have fun building your Shikakuchi! 😛
 
 ![Preview](preview.gif)
 
+Animation and package graphics by the wonderful [Joemi](https://github.com/nannamordor) <3
+
 ![Box Preview](preview_box.png)
