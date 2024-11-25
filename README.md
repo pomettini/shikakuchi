@@ -24,7 +24,7 @@ A portable toy device inspired by the game [Little Repair Shop](https://eventhor
   - `Shikakuchi_back.stl`
   - `Shikakuchi_padding.stl`
 
-Scale all models uniformly to **370%** for proper dimensions
+Scale all models uniformly to **370%** for proper dimensions.
 
 - **Flashing the Board**: Open `shikakuchi.ino` with the [Arduino IDE](https://www.arduino.cc/en/software). Use [this guide](https://www.wemos.cc/en/latest/tutorials/s3/get_started_with_arduino_s3.html) to upload the sketch onto your Lolin S3 Mini Pro.
 
